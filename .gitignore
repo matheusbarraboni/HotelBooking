@@ -288,3 +288,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+BookingService/Adapters/Data/Migrations/20240730001244_InitialCreate.cs
+BookingService/Adapters/Data/Migrations/20240730001244_InitialCreate.Designer.cs
+BookingService/Adapters/Data/Migrations/HotelDbContextModelSnapshot.cs
